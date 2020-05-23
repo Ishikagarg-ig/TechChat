@@ -1,4 +1,4 @@
-# flash_chat
+# TechChat
 
 A new Flutter application.
 
